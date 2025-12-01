@@ -1,0 +1,20 @@
+2025-12-01 07:52:45 -> Word typed: hi
+2025-12-01 07:52:51 -> Word typed: hello
+2025-12-01 07:53:57 -> Word typed: [A[A[A[A[A[A[A[A[A[Aexit
+2025-12-01 08:18:37 -> Word typed: h
+2025-12-01 08:18:43 -> Word typed: e
+2025-12-01 08:18:46 -> Word typed: l
+2025-12-01 08:18:47 -> Word typed: l
+2025-12-01 08:18:48 -> Word typed: o
+2025-12-01 08:18:58 -> Word typed: w
+2025-12-01 08:19:00 -> Word typed: o
+2025-12-01 08:19:01 -> Word typed: l
+2025-12-01 08:19:03 -> Word typed: d
+2025-12-01 08:19:16 -> Word typed: e
+2025-12-01 08:19:17 -> Word typed: x
+2025-12-01 08:19:18 -> Word typed: a
+2025-12-01 08:19:22 -> Word typed: m
+2025-12-01 08:19:23 -> Word typed: p
+2025-12-01 08:19:24 -> Word typed: l
+2025-12-01 08:19:27 -> Word typed: e
+2025-12-01 08:19:31 -> Keylogger stopped by user.
